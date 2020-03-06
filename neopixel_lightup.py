@@ -1,4 +1,7 @@
-# CircuitPython demo - NeoPixel RGBW
+'''
+ Uses CircuitPython to create visuals in neopixels connected to Arduino. In this implementation we used Arduino Gemma 
+ with sewable addressable NeoPixels. 
+'''
 
 import time
 import board
